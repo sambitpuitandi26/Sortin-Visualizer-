@@ -3,3 +3,7 @@ No more sorting specific visualizer code! How about we write one generic visuali
 As a proof of versatility, several examples were taken from the internet. The credit for writing those sorting codes go to the rightful owners. This tutorial doesn't focus on sorting mechanism, we just want to have fun witnessing sorting in progress.
 
 This piece of code is tested with different sorting algo implementations available in the internet and it is working with each and everyone of them.
+
+
+https://user-images.githubusercontent.com/89891902/176006724-9c4378a0-30ac-415c-80c4-c23995903935.mp4
+
